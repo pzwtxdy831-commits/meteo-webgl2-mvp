@@ -1,0 +1,5 @@
+numpy
+xarray
+cfgrib
+netCDF4
+Pillow

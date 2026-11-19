@@ -1,0 +1,8 @@
+node_modules/
+dist/
+__pycache__/
+backend/mock.npz
+public/tiles/*
+!public/tiles/.gitkeep
+test-results/
+playwright-report/
